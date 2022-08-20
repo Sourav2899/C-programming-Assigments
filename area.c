@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     float  area,pie=3.14;
     int radius; 
